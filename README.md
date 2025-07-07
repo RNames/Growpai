@@ -1,2 +1,3 @@
 # Growpai
-Some random script for Growpai Proxy
+Some random script for Growpai
+
