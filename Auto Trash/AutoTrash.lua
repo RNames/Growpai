@@ -1,8 +1,9 @@
 --Script by R.Name
 --Turn on fast trash first
 
-local item_ids = { 4584 } --change the item id you want to trash
-
+-- ========== CONFIGURATION ==========
+local item_ids = { 4584 }           --change the item id you want to trash
+-- ===================================
 
 function dialogbox()
     varlist = {}

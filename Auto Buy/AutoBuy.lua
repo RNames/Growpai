@@ -1,3 +1,5 @@
+--Script by R.Name
+
 -- ========== CONFIGURATION ==========
 local item_to_buy = "door_pack" -- The store pack ID (e.g., "door_pack")
 local repeat_count = 1          -- How many times to buy it
